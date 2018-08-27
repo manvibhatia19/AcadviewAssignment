@@ -1,0 +1,12 @@
+ASSIGNMENT-of-16th-aug
+1. take 2 nos. a and b and add them. print the sum on the screen.
+2. check if a given year is a leap year or not.
+3. print pattern
+	*
+	**
+	***
+	****
+4. given 3 nos. a,b,c and write a prog. to find biggest of 3 nos.
+5. check if no. is palindrome or not.
+6. check if a no. is prime or not.
+7. find reverse of a no. N.
